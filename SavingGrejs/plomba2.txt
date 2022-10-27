@@ -1,0 +1,1 @@
+{"Weapon":"Hammer","Speed":10,"Stamina":20}
